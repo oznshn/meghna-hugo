@@ -8,7 +8,7 @@ skill:
   skill_item:
   - name: Business Development
     percent: 90%
-  - name: Analysis
+  - name: Business Intelligence
     percent: 70%
   - name: Data Analysis
     percent: 80%
