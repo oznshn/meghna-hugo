@@ -14,13 +14,6 @@ sections:
   new_doc_ext: md
   templates:
   - post
-- type: directory
-  path: exampleSite/content/french/blog
-  label: Post (fr)
-  create: documents
-  match: "**/*"
-  templates:
-  - post
 - type: heading
   label: Author
 - type: directory
@@ -30,12 +23,6 @@ sections:
   match: "**/*"
   templates:
   - author
-- type: directory
-  path: exampleSite/content/french/author
-  label: Author (fr)
-  create: documents
-  match: "**/*"
-  templates:
   - author
 - type: heading
   label: Data
