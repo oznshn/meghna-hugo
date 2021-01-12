@@ -12,6 +12,6 @@ feature:
   - title: Desktop Application
     icon: ti-panel
     content: ''
-  - title: Data Analytics
+  - title: Data Analytics & Visualization
     icon: ti-stats-up
     content: ''

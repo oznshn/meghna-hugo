@@ -3,7 +3,7 @@ cta:
   enable: true
   bg_image: images/backgrounds/bg-white-wall.jpg
   bg_image_webp: images/backgrounds/bg-white-wall.webp
-  title: Web & Desktop Development - Data Design & Data Analytics
+  title: Web & Desktop Development - Data Analytics & Visualization
   content: ''
   button:
     enable: true
