@@ -8,7 +8,7 @@ skill:
   skill_item:
   - name: Desktop Development
     percent: 75%
-  - name: Data Analysis
+  - name: Data Analytics
     percent: 80%
   - name: Web Development
     percent: 95%
