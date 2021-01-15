@@ -1,15 +1,15 @@
 ---
 feature:
   enable: true
-  image: images/about/about-business-man.jpg
-  image_webp: images/about/about-business-man.webp
+  image: images/about/about-business.jpeg
+  image_webp: images/about/about-business.webp
   title: We’re a IT Solutions Company
   content: ''
   feature_item:
   - title: Web Development
     icon: ti-world
     content: ''
-  - title: Desktop Application
+  - title: Desktop Applications
     icon: ti-panel
     content: ''
   - title: Data Analytics & Visualization
